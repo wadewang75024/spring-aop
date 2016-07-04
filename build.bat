@@ -1,0 +1,1 @@
+f:\wang\j2ee\apache-maven-3.1.1\bin\mvn clean install
